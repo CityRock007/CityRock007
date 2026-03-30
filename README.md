@@ -38,6 +38,6 @@ I build scalable digital ecosystems that bridge the gap between complex backend 
 
 ## 📫 Let's Connect!
 * **LinkedIn:** [James Friday](https://www.linkedin.com/in/james-friday-141a6921a/)
-* **Email:** [praisejamesfriday@gmail.com](mailto:praisejamesfriday@gmail.com)
+* **Email:** [jamesfriday007@gmail.com](mailto:jamesfriday007@gmail.com)
 
 "Building the future, one commit at a time."
