@@ -1,4 +1,4 @@
-# Hi, I'm James Friday 👋 (CityRock007)
+# Hi, I'm James P. Friday 👋 (CityRock007)
 
 ### 🚀 Full-Stack Developer | PHP & Flutter Specialist
 I build scalable digital ecosystems that bridge the gap between complex backend logic and seamless mobile experiences. My work spans across **Fintech, EdTech, HealthTech, and Logistics**, focusing on secure API integrations and real-time data processing.
